@@ -60,3 +60,7 @@
             ├── [        137]  th05_cn.conf
             ├── [        137]  th05_jp.conf
             └── [       6604]  touhou_classic_launcher.sh
+
+使用以下命令给予脚本运行权限：
+
+    chmod +x touhou_classic_launcher.sh
