@@ -2,9 +2,9 @@
 
 100%代码来自Deepseek，请不放心使用。
 
-基于莉莉云（cloud.lilywhite.cc）上的东方旧作整合。
+基于莉莉云（https://cloud.lilywhite.cc）上的东方旧作整合（[th01-05]+旧五作整合+(推荐)+(汉化版+日文版).rar）。
 
-需要安装doxbox-x。
+需要安装dosbox-x。
 
 打包版（包含游戏文件本体）下载地址：https://xiaolang47y.lanzouw.com/i2iri3nvykhe
 
